@@ -1,0 +1,12 @@
+Changelog for Tic-Tac-Toe Game:
+-> Created README file for project (2022/May/14).
+-> Created Changelog.txt to document (significant/major) changes over time (2022/May/14).
+-> Moved (most of) the Informational comments for User from TicTacToe.java file to README file; updated to fit in
+properly with the rest of the README (2022/May/14).
+-> Working on fixing and fully implementing improved game logic & QoL items (2022/May/23).
+-> Adding (and focusing on) 2nd Human player feature for 'Player 2' (2022/May/23).
+-> TicTacToe game moving into Alpha Development Stage (2022/May/24).
+-> Created Test Suite Directory (test) and file (TicTacToeTest) (2022/June/05).
+--> Marked new directory as 'Test Sources Root' (2022/June/05).
+--> Added JUnit 4 (4.12) to Project Module/Library (2022/June/05).
+->
