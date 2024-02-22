@@ -4,7 +4,7 @@ Project Created on January 3rd, 2020.
 README created on May 14th, 2022.  
 (With help from: https://www.markdownguide.org/basic-syntax/).  
 ~  
-README last updated on: May.24th, 2022.  
+README last updated on: Feb 21st, 2024.  
 ~
 
 ## Introductions: Hello There!
@@ -12,8 +12,15 @@ README last updated on: May.24th, 2022.
 as I didn't have the skills yet or the passion yet to fully put the effort into this project. Now in the year 2022,  
 I feel I do have both the skill and passion to finish this project! -->
 
-Playing with a Numpad is the ideal way to play!  
+To play, first download this repository onto your local computer.
+### To play with an IDE like Intellij:
 Once you're done reading this file, press 'Run' on TicTacToe to start the game!
+
+### To play on the command line:
+Run this command on the same directory as the project is saved:
+[To be added soon!] 
+
+Note: Playing with a Numpad is the ideal way to play!
 
 **COMING SOON!**  
 -> GUI Interface
@@ -40,9 +47,9 @@ So each number in the Game Board identifies a specific sequence:
 Make sure to read everything too!
 
 #### FAQ:
-test123
+<!-- test123 -->
 #### Need help?
-test123
+<!-- test123 -->
 
 
 ### Programming Logic:

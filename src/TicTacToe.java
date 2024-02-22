@@ -4,9 +4,9 @@ A personal project :)
 ~
 By: Joel Kuruvilla.
 Created On: Jan-03-2021.
-Updated/Modified On: May-24-2022.
+Updated/Modified On: Feb-21-2024.
 ====================================================================================================
-Hi! This is a tic-tac-toe game, that I've worked and hope you enjoy! You will have to first
+Hi! This is a tic-tac-toe game that I worked on after my first year pursuing the BACS degree at Dalhousie, hope you enjoy! You will have to first
 choose your player piece and then you will be instructed to make the first move now! in reference to a 3x3 grid
 layout (referred to as the GameBoard).
 */
